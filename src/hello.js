@@ -1,1 +1,1 @@
-Consolelog(Hello, planet)
+console.const("Hello, world")
